@@ -1,4 +1,6 @@
-# know your power 
+# know your power
+# This work is licensed under the Creative Commons
+# Attribution-ShareAlike 3.0 Unported License.
 
 from adafruit_clue import clue
 import analogio
